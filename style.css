@@ -1,0 +1,13 @@
+#cookie-container {
+    text-align: center;
+}
+
+#cookie {
+    cursor: pointer;
+    width: 100px; /* Adjust size as needed */
+}
+
+#score {
+    font-size: 24px;
+    text-align: center;
+}
